@@ -9,7 +9,9 @@ Used Rstudio library tidyverse, ggplot for data visualization in combination wit
 
 Link Rstudio: https://github.com/nhuphan1988/Portfolio_Nhu/blob/main/Project3.Rmd
 
-Link PDF file: Chlorophyll-a index is affected by the presence of Trichodesmium.pdf
+Link PDF file: https://github.com/nhuphan1988/Portfolio_Nhu/blob/main/Chlorophyll-a%20index%20is%20affected%20by%20the%20presence%20of%20Trichodesmium.pdf
+
+
 
 
 
